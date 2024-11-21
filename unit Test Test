@@ -1,0 +1,37 @@
+/**
+     * Test of testCreateLoginTask method, of class ST10363604Test.
+     */
+    @Test
+    public void testTestCreateLoginTask() {
+        System.out.println("testCreateLoginTask");
+        ST10363604Test instance = new ST10363604Test();
+        instance.testCreateLoginTask();
+        // TODO review the generated test code and remove the default call to fail.
+        fail("The test case is a prototype.");
+    }
+
+    /**
+     * Test of testSamanthaPaulsonTasks method, of class ST10363604Test.
+     */
+    @Test
+    public void testTestSamanthaPaulsonTasks() {
+        System.out.println("testSamanthaPaulsonTasks");
+        ST10363604Test instance = new ST10363604Test();
+        instance.testSamanthaPaulsonTasks();
+        // TODO review the generated test code and remove the default call to fail.
+        fail("The test case is a prototype.");
+    }
+
+    /**
+     * Test of testDeleteReportsTask method, of class ST10363604Test.
+     */
+    @Test
+    public void testTestDeleteReportsTask() {
+        System.out.println("testDeleteReportsTask");
+        ST10363604Test instance = new ST10363604Test();
+        instance.testDeleteReportsTask();
+        // TODO review the generated test code and remove the default call to fail.
+        fail("The test case is a prototype.");
+    }
+    
+}
